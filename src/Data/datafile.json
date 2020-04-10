@@ -1,0 +1,118 @@
+{
+	"Personalia": {
+		"Name": "Martin Bruland",
+		"Bio": "Student in Information Science",
+		"Bio2": "Indie Developer",
+		"Description1": "Currently studying Information Science at the University of Bergen.",
+		"Description2": "Creating apps and games on the side.",
+		"Description3": "",
+		"Description4": "",
+
+		"Contact": {
+			"GitHub": "https://github.com/MartinBruland",
+			"LinkedIn": "https://no.linkedin.com/in/martinbruland?trk=profile-badge",
+			"Mail": "mailto:createdByMartin@gmail.com"
+		}
+
+	},
+	"Projects": {
+		"Project1": {
+			"ID": "1",
+			"Title": "LetterQuiz",
+			"Description": "LetterQuiz is a game available for iOS devices.\n The player gets a question and answer alternatives, that has to be answered before the time runs out.\n Each correct answer gives the player 3 more seconds.\n If the answer is incorrect the player loses 1 of 3 lives.\n If the number of lives run out, the game is over.\n The goal is to reach the next difficulty by beating the score.",
+            
+			"Links": {
+				"View on AppStore": "https://apps.apple.com/us/app/letterquiz/id1459619527",
+				"View on GitHub": "https://github.com/MartinBruland/letterquiz-ios",
+				"Privacy Policy": "https://www.iubenda.com/privacy-policy/82079181"
+			},
+
+			"Details": {
+				"Created By": "Martin Bruland",
+				"Project Startdate": "October 2018",
+				"Published": "April, 2019",
+				"Platform": "IOS",
+				"Language": "Swift",
+				"Current Version": "2.0",
+				"Age Rating": "4+",
+				"Genre": "Trivia, Puzzle"
+			}
+
+		},
+		"Project2": {
+			"ID": "2",
+			"Title": "Portfolio V1",
+			"Description": "Portfolio V1 is a website that contains information about the developers projects.\n The project is written in HTML/CSS and JS.",
+
+			"Links": {
+				"View on GitHub": "https://github.com/MartinBruland/portfolio-v1"
+			},
+
+			"Details": {
+				"Created By": "Martin Bruland",
+				"Language": "HTML/CSS, JS"
+			}
+        },
+        "Project3": {
+			"ID": "3",
+			"Title": "Portfolio V2",
+            "Description": "Portfolio V2 is a website that contains information about the developers projects.\n The project is written in ReactJS.",
+            
+			"Links": {
+				"View on GitHub": "https://github.com/MartinBruland/portfolio-v2"
+			},
+
+			"Details": {
+				"Created By": "Martin Bruland",
+				"Project Startdate": "January 2020",
+				"Status": "Work In Progress",
+				"Project Finished": "",
+				"Language": "ReactJS"
+			}
+        },
+        "Project4": {
+			"ID": "4",
+			"Title": "Calendar",
+            "Description": "Calendar is an unfinished app that combines multiple to do lists with a calendar.\n The calendar is made to organize and display todo items by category/list and by date.",
+
+			"Links": {
+
+				"View on GitHub": "https://github.com/MartinBruland/calendar-ios"
+
+			},
+
+			"Details": {
+				"Created By": "Martin Bruland",
+				"Project Startdate": "April 2019",
+				"Status": "Work In Progress",
+				"Project Finished": "",
+				"Platform": "IOS",
+				"Language": "Swift"
+			}
+        },
+        "Project5": {
+			"ID": "5",
+			"Title": "Wingsuit Explorer",
+            "Description": "Wingsuit Explorer is a mobile game.\n The players goal is to collect as many coins and gems as possible before landing or crashing.\n The collectibles can be used to upgrade the character to be able to fly longer and faster.",
+
+			"Links": {
+
+				"PrivacyPolicy": "",
+				"TermsOfService": "",
+				"View on GitHub": ""
+
+			},
+
+			"Details": {
+				"Created By": "Martin Bruland",
+				"Project Startdate": "January 2020",
+				"Status": "Work In Progress",
+				"Published": "",
+				"Platform": "IOS, Android",
+				"Language": "C#, Unity3D",
+				"Size": "",
+				"Current Version": ""
+			}
+		}
+	}
+}

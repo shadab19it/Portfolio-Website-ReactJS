@@ -1,0 +1,27 @@
+
+@media (min-width:320px) { /* Tablets */ 
+    #link-button {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+        border-radius: 25px;  
+        width: 250px;
+        height: 140px;
+        background: rgb(36,37,38);
+        margin: 10px;
+
+    }
+
+    #link-button img {
+        width: 45%;
+        height: auto;
+    }
+}
+@media (min-width:768px) { /* Tablets */ 
+    #link-button {
+        width: 180px;
+        background: rgb(58,59,60);
+
+    }
+}
