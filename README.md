@@ -1,4 +1,4 @@
-# Portfolio V2
+# A React based Portfolio V2
 
 * Author: Martin Bruland
 * Created: March 2020
